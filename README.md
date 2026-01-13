@@ -1,3 +1,11 @@
+<img width="1394" height="865" alt="Password Policy Applied and Users" src="https://github.com/user-attachments/assets/3556a10e-4937-4f95-8937-bf8664366c9a" />
+<img width="1381" height="858" alt="new GPO listed under Group Policy Objects" src="https://github.com/user-attachments/assets/ca5603d3-683b-4529-b263-dff491deab6c" />
+<img width="1377" height="890" alt="Group Policy Management Screenshot" src="https://github.com/user-attachments/assets/f3e1a072-9df6-4a1a-84f3-2df608b9fec8" />
+<img width="1384" height="887" alt="GPO_PasswordPolicy_AccountPolicies" src="https://github.com/user-attachments/assets/92a5beb1-12ed-4dd5-aa13-a100e9f7dfff" />
+<img width="1207" height="841" alt="GPO Password Policies" src="https://github.com/user-attachments/assets/329c9c26-df53-45a2-bd09-5fcebebfaa85" />
+<img width="1543" height="924" alt="booted the VM and reached the Windows 11 installer screen" src="https://github.com/user-attachments/assets/8ac38e85-2752-4038-9b86-9ef9794db50b" />
+<img width="1196" height="915" alt="Active Directory Services Selected" src="https://github.com/user-attachments/assets/f47920b6-9afb-483d-a838-73b41ec6cc34" />
+<img width="1401" height="879" alt="3 users added to Group" src="https://github.com/user-attachments/assets/42762bcf-5a5d-4b4d-8cd2-2e9d98e5e188" />
 # Virtual-Machine-Group-Policy-Lab-Password-Policy-Implementation
 Password Policy Implementation
 Virtual Machine Group Policy Lab – Password Policy Implementation
